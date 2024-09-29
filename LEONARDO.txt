@@ -1,0 +1,58 @@
+<html>
+<head><title>Leonardo_hyperlink</title></head>
+<body>
+
+<h1>HTML Hyperlinks Exercise</h1>
+    
+<p>
+<a href="https://www.youtube.com"target="_blank">Youtube</a><br><br>
+<a href="mailto:leonardobrylleadrian@gmail.com">Message Me!</a>
+</p>
+
+
+    <head> <title> Head </title></head>
+    <body>
+        <form action="hi.html" method="post">
+        <input name="name" value="Brylle" type="text"
+        Genders:
+       <input type="radio" name="opt1"> <input type="radio" name="opt1"> Male
+      <input type="radio" name="opt1">
+      Female   
+      <input type="radio" name="opt1" checked> Gay
+      <input type="checkbox" name="opt2" checked> Gay
+      <input type="checkbox" name="opt2"> Baby boy
+      <input type="checkbox" name="opt2"> Baby girl
+      password <input type="password" name="Opt3">
+      username <input type="name" name="opt3">
+      <input type="submit" name="opt3" value="Submit"> 
+      <input type="reset" name="opt3" value="Reset"> 
+        </form>
+
+
+<a href="mailto:leonardobrylleadrian@gmail.com" name="Text me shrek"> I like shrek </a>
+<a href="https://getwallpapers.com/wallpaper/full/1/e/4/890298-full-size-shrek-wallpapers-2560x1440.jpg" target="_new"> <img src=shrek.jpg alt="shrek"> </a>
+
+<h1>Ingredients for a Cake</h1>
+    <ol type="i" start="6">
+        <li> Cakes are good
+	<ol type="A" start="14">
+	<li> yes </li>
+	<li> no </li>
+	</ol>
+	</li>
+	<li> <b> mama </b>
+        <ul type="square">
+                <li>2 cups of flour</li>
+                <li>1 cup of sugar</li>
+                <li>1 tsp of baking powder</li>
+                <li>1/2 tsp of salt</li>
+	</ul>
+	</li>
+	<li> Cake
+	<dl>
+	    <dt> Cakes are very delicious </dt>
+		<dd> It is rich with sweetness </dd>
+		<dd> The best dessert you can ask for </dd>
+            </dl>
+	</li>
+	 </ol>
